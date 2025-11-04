@@ -1,7 +1,7 @@
 # PhonePe-Pulse-Data-2018-2022-Analysis
 I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python 
 
-Link for web app is : https://tulasinnd-phonepe-pulse-data-2018-2022-phonepe-dashboard-2drsrt.streamlit.app/
+
 
 THE MAIN COMPONENTS OF DASHBOARD ARE
 
@@ -63,4 +63,5 @@ district, I have used different graphs available in plotly to represent this dat
     2 States with top Total Amount Transacted
     3 States with highest Trabsactions count
     4 States with top app openings
+
 
